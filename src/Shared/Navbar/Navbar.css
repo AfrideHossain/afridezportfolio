@@ -1,0 +1,6 @@
+.icon:hover {
+  background: linear-gradient(90deg, #40c9ff, #e81cff);
+  background-clip: text;
+  color: transparent;
+  transition: all 0.5s;
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Aperture Academy",
+    "detail": "Aperture Academy is a photography learning website. It includes separate dashboards for students, instructors, and admins. Data management is handled through MongoDB, while React Hook Form ensures effective user input validation. Enhance your photography skills with Aperture Academy's comprehensive resources.",
+    "client_side": "https://github.com/AfrideHossain/ApertureAcademy-client.git",
+    "server_side": "https://github.com/AfrideHossain/ApertureAcademy-server.git",
+    "tech_stack": [
+      "React",
+      "Tailwind",
+      "DaisyUI",
+      "Firebase",
+      "JWT",
+      "ExpressJS",
+      "MongoDB",
+      "NodeJS"
+    ],
+    "live": "https://apertureacademy.netlify.app/",
+    "image": "https://i.ibb.co/LgZMmLc/64a303c5a8957e20b7761606.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Marvel Toyverse",
+    "detail": "Marvel Toyverse is an online platform for purchasing toys. Its frontend, developed using ReactJS and DaisyUI, offers a visually engaging interface. Google authentication ensures easy login, while JSON Web Token provides secure user validation. Find and buy a wide range of toys on Marvel Toyverse.",
+    "client_side": "https://github.com/AfrideHossain/MervelToyverse-client.git",
+    "server_side": "https://github.com/AfrideHossain/MervelToyverse-server.git",
+    "tech_stack": [
+      "React",
+      "Tailwind",
+      "DaisyUI",
+      "Firebase",
+      "JWT",
+      "ExpressJS",
+      "NodeJS"
+    ],
+    "live": "https://merveltoyverse.netlify.app/",
+    "image": "https://i.ibb.co/bPc15Wz/64a306a63d652147ad517202.jpg"
+  },
+  {
+    "id": 3,
+    "name": "FuudVerse",
+    "detail": "FuudVerse is a food website with a vast collection of recipes. Its frontend is built using ReactJS and TailwindCSS, offering a modern interface. Firebase integration enables secure authentication, and react-toastify provides convenient toast notifications. Discover new recipes and explore diverse cuisines with FuudVerse.",
+    "client_side": "https://github.com/AfrideHossain/FuudVerse-client.git",
+    "server_side": "https://github.com/AfrideHossain/FuudVerse-server.git",
+    "tech_stack": ["React", "Tailwind", "Firebase", "ExpressJS", "NodeJS"],
+    "live": "https://fuudverse.web.app/",
+    "image": "https://i.ibb.co/Wsw16Md/64a3087111076445423a567b.jpg"
+  },
+  {
+    "id": 4,
+    "name": "New Year New Me",
+    "detail": "'New Year New Me' is a website built using HTML and CSS, focusing on the concept of starting fresh and making positive changes during the new year. The website likely features various sections and content related to personal growth, motivation, goal setting, and self-improvement.",
+    "client_side": "https://github.com/AfrideHossain/newYearNewMe.git",
+    "server_side": "",
+    "tech_stack": ["Html", "Css", "JavaScript"],
+    "live": "https://afridehossain.github.io/newYearNewMe/",
+    "image": "https://i.ibb.co/sJpYxwh/6491d1fb726f8018775f72f0.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Developer Porfolio",
+    "detail": "'Developer Portfolio' is a website built exclusively with HTML and CSS, showcasing the work and skills of a developer. The website is designed to serve as a professional portfolio to highlight the developer's projects, experience, and expertise.",
+    "client_side": "https://github.com/AfrideHossain/dev-portfolio.git",
+    "server_side": "",
+    "tech_stack": ["Html", "Css", "JavaScript"],
+    "live": "https://afridehossain.github.io/dev-portfolio/",
+    "image": "https://i.ibb.co/SPRbdN4/6491d2d88611182f4c4f6273.jpg"
+  }
+]
